@@ -28,7 +28,7 @@
     "id": 1608618140
   },
   {
-    "city": "S�o Paulo",
+    "city": "Sao Paulo",
     "lat": -23.5504,
     "lng": -46.6339,
     "country": "Brazil",
@@ -91,7 +91,7 @@
     "id": 1840034016
   },
   {
-    "city": "Kolk?ta",
+    "city": "Kolkata",
     "lat": 22.5727,
     "lng": 88.3639,
     "country": "India",
@@ -126,7 +126,7 @@
     "id": 1032717330
   },
   {
-    "city": "?saka",
+    "city": "Osaka",
     "lat": 34.752,
     "lng": 135.4582,
     "country": "Japan",
@@ -280,7 +280,7 @@
     "id": 1156192287
   },
   {
-    "city": "Hyder?b?d",
+    "city": "Hyderabad",
     "lat": 17.3617,
     "lng": 78.4747,
     "country": "India",
@@ -434,7 +434,7 @@
     "id": 1156738403
   },
   {
-    "city": "Bogot�",
+    "city": "Bogota",
     "lat": 4.6126,
     "lng": -74.0705,
     "country": "Colombia",
@@ -567,7 +567,7 @@
     "id": 1156294952
   },
   {
-    "city": "Xi�an",
+    "city": "Xi An",
     "lat": 34.2667,
     "lng": 108.9,
     "country": "China",
