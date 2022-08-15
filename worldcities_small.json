@@ -1,0 +1,695 @@
+[
+  {
+    "city": "Tokyo",
+    "lat": 35.6839,
+    "lng": 139.7744,
+    "country": "Japan",
+    "id": 1392685764
+  },
+  {
+    "city": "Jakarta",
+    "lat": -6.2146,
+    "lng": 106.8451,
+    "country": "Indonesia",
+    "id": 1360771077
+  },
+  {
+    "city": "Delhi",
+    "lat": 28.6667,
+    "lng": 77.2167,
+    "country": "India",
+    "id": 1356872604
+  },
+  {
+    "city": "Manila",
+    "lat": 14.6,
+    "lng": 120.9833,
+    "country": "Philippines",
+    "id": 1608618140
+  },
+  {
+    "city": "S�o Paulo",
+    "lat": -23.5504,
+    "lng": -46.6339,
+    "country": "Brazil",
+    "id": 1076532519
+  },
+  {
+    "city": "Seoul",
+    "lat": 37.56,
+    "lng": 126.99,
+    "country": "South Korea",
+    "id": 1410836482
+  },
+  {
+    "city": "Mumbai",
+    "lat": 19.0758,
+    "lng": 72.8775,
+    "country": "India",
+    "id": 1356226629
+  },
+  {
+    "city": "Shanghai",
+    "lat": 31.1667,
+    "lng": 121.4667,
+    "country": "China",
+    "id": 1156073548
+  },
+  {
+    "city": "Mexico City",
+    "lat": 19.4333,
+    "lng": -99.1333,
+    "country": "Mexico",
+    "id": 1484247881
+  },
+  {
+    "city": "Guangzhou",
+    "lat": 23.1288,
+    "lng": 113.259,
+    "country": "China",
+    "id": 1156237133
+  },
+  {
+    "city": "Cairo",
+    "lat": 30.0444,
+    "lng": 31.2358,
+    "country": "Egypt",
+    "id": 1818253931
+  },
+  {
+    "city": "Beijing",
+    "lat": 39.904,
+    "lng": 116.4075,
+    "country": "China",
+    "id": 1156228865
+  },
+  {
+    "city": "New York",
+    "lat": 40.6943,
+    "lng": -73.9249,
+    "country": "United States",
+    "id": 1840034016
+  },
+  {
+    "city": "Kolk?ta",
+    "lat": 22.5727,
+    "lng": 88.3639,
+    "country": "India",
+    "id": 1356060520
+  },
+  {
+    "city": "Moscow",
+    "lat": 55.7558,
+    "lng": 37.6178,
+    "country": "Russia",
+    "id": 1643318494
+  },
+  {
+    "city": "Bangkok",
+    "lat": 13.75,
+    "lng": 100.5167,
+    "country": "Thailand",
+    "id": 1764068610
+  },
+  {
+    "city": "Dhaka",
+    "lat": 23.7289,
+    "lng": 90.3944,
+    "country": "Bangladesh",
+    "id": 1050529279
+  },
+  {
+    "city": "Buenos Aires",
+    "lat": -34.5997,
+    "lng": -58.3819,
+    "country": "Argentina",
+    "id": 1032717330
+  },
+  {
+    "city": "?saka",
+    "lat": 34.752,
+    "lng": 135.4582,
+    "country": "Japan",
+    "id": 1392419823
+  },
+  {
+    "city": "Lagos",
+    "lat": 6.45,
+    "lng": 3.4,
+    "country": "Nigeria",
+    "id": 1566593751
+  },
+  {
+    "city": "Istanbul",
+    "lat": 41.01,
+    "lng": 28.9603,
+    "country": "Turkey",
+    "id": 1792756324
+  },
+  {
+    "city": "Karachi",
+    "lat": 24.86,
+    "lng": 67.01,
+    "country": "Pakistan",
+    "id": 1586129469
+  },
+  {
+    "city": "Kinshasa",
+    "lat": -4.3317,
+    "lng": 15.3139,
+    "country": "Congo (Kinshasa)",
+    "id": 1180000363
+  },
+  {
+    "city": "Shenzhen",
+    "lat": 22.535,
+    "lng": 114.054,
+    "country": "China",
+    "id": 1156158707
+  },
+  {
+    "city": "Bangalore",
+    "lat": 12.9791,
+    "lng": 77.5913,
+    "country": "India",
+    "id": 1356410365
+  },
+  {
+    "city": "Ho Chi Minh City",
+    "lat": 10.8167,
+    "lng": 106.6333,
+    "country": "Vietnam",
+    "id": 1704774326
+  },
+  {
+    "city": "Tehran",
+    "lat": 35.7,
+    "lng": 51.4167,
+    "country": "Iran",
+    "id": 1364305026
+  },
+  {
+    "city": "Los Angeles",
+    "lat": 34.1139,
+    "lng": -118.4068,
+    "country": "United States",
+    "id": 1840020491
+  },
+  {
+    "city": "Rio de Janeiro",
+    "lat": -22.9083,
+    "lng": -43.1964,
+    "country": "Brazil",
+    "id": 1076887657
+  },
+  {
+    "city": "Chengdu",
+    "lat": 30.66,
+    "lng": 104.0633,
+    "country": "China",
+    "id": 1156421555
+  },
+  {
+    "city": "Baoding",
+    "lat": 38.8671,
+    "lng": 115.4845,
+    "country": "China",
+    "id": 1156256829
+  },
+  {
+    "city": "Chennai",
+    "lat": 13.0825,
+    "lng": 80.275,
+    "country": "India",
+    "id": 1356374944
+  },
+  {
+    "city": "Lahore",
+    "lat": 31.5497,
+    "lng": 74.3436,
+    "country": "Pakistan",
+    "id": 1586801463
+  },
+  {
+    "city": "London",
+    "lat": 51.5072,
+    "lng": -0.1275,
+    "country": "United Kingdom",
+    "id": 1826645935
+  },
+  {
+    "city": "Paris",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "country": "France",
+    "id": 1250015082
+  },
+  {
+    "city": "Tianjin",
+    "lat": 39.1467,
+    "lng": 117.2056,
+    "country": "China",
+    "id": 1156174046
+  },
+  {
+    "city": "Linyi",
+    "lat": 35.0606,
+    "lng": 118.3425,
+    "country": "China",
+    "id": 1156086320
+  },
+  {
+    "city": "Shijiazhuang",
+    "lat": 38.0422,
+    "lng": 114.5086,
+    "country": "China",
+    "id": 1156217541
+  },
+  {
+    "city": "Zhengzhou",
+    "lat": 34.7492,
+    "lng": 113.6605,
+    "country": "China",
+    "id": 1156183137
+  },
+  {
+    "city": "Nanyang",
+    "lat": 32.9987,
+    "lng": 112.5292,
+    "country": "China",
+    "id": 1156192287
+  },
+  {
+    "city": "Hyder?b?d",
+    "lat": 17.3617,
+    "lng": 78.4747,
+    "country": "India",
+    "id": 1356871768
+  },
+  {
+    "city": "Wuhan",
+    "lat": 30.5872,
+    "lng": 114.2881,
+    "country": "China",
+    "id": 1156117184
+  },
+  {
+    "city": "Handan",
+    "lat": 36.6116,
+    "lng": 114.4894,
+    "country": "China",
+    "id": 1156957080
+  },
+  {
+    "city": "Nagoya",
+    "lat": 35.1167,
+    "lng": 136.9333,
+    "country": "Japan",
+    "id": 1392407472
+  },
+  {
+    "city": "Weifang",
+    "lat": 36.7167,
+    "lng": 119.1,
+    "country": "China",
+    "id": 1156912965
+  },
+  {
+    "city": "Lima",
+    "lat": -12.06,
+    "lng": -77.0375,
+    "country": "Peru",
+    "id": 1604728603
+  },
+  {
+    "city": "Zhoukou",
+    "lat": 33.625,
+    "lng": 114.6418,
+    "country": "China",
+    "id": 1156272098
+  },
+  {
+    "city": "Luanda",
+    "lat": -8.8383,
+    "lng": 13.2344,
+    "country": "Angola",
+    "id": 1024949724
+  },
+  {
+    "city": "Ganzhou",
+    "lat": 25.8292,
+    "lng": 114.9336,
+    "country": "China",
+    "id": 1156832475
+  },
+  {
+    "city": "Tongshan",
+    "lat": 34.261,
+    "lng": 117.1859,
+    "country": "China",
+    "id": 1156241678
+  },
+  {
+    "city": "Kuala Lumpur",
+    "lat": 3.1478,
+    "lng": 101.6953,
+    "country": "Malaysia",
+    "id": 1458988644
+  },
+  {
+    "city": "Chicago",
+    "lat": 41.8373,
+    "lng": -87.6862,
+    "country": "United States",
+    "id": 1840000494
+  },
+  {
+    "city": "Heze",
+    "lat": 35.2333,
+    "lng": 115.4333,
+    "country": "China",
+    "id": 1156225008
+  },
+  {
+    "city": "Chongqing",
+    "lat": 29.55,
+    "lng": 106.5069,
+    "country": "China",
+    "id": 1156936556
+  },
+  {
+    "city": "Hanoi",
+    "lat": 21.0245,
+    "lng": 105.8412,
+    "country": "Vietnam",
+    "id": 1704413791
+  },
+  {
+    "city": "Fuyang",
+    "lat": 32.8986,
+    "lng": 115.8045,
+    "country": "China",
+    "id": 1156248008
+  },
+  {
+    "city": "Changsha",
+    "lat": 28.1987,
+    "lng": 112.9709,
+    "country": "China",
+    "id": 1156961497
+  },
+  {
+    "city": "Dongguan",
+    "lat": 23.0475,
+    "lng": 113.7493,
+    "country": "China",
+    "id": 1156478242
+  },
+  {
+    "city": "Jining",
+    "lat": 35.4,
+    "lng": 116.5667,
+    "country": "China",
+    "id": 1156504601
+  },
+  {
+    "city": "Jinan",
+    "lat": 36.6667,
+    "lng": 116.9833,
+    "country": "China",
+    "id": 1156972469
+  },
+  {
+    "city": "Pune",
+    "lat": 18.5196,
+    "lng": 73.8553,
+    "country": "India",
+    "id": 1356081074
+  },
+  {
+    "city": "Foshan",
+    "lat": 23.0292,
+    "lng": 113.1056,
+    "country": "China",
+    "id": 1156738403
+  },
+  {
+    "city": "Bogot�",
+    "lat": 4.6126,
+    "lng": -74.0705,
+    "country": "Colombia",
+    "id": 1170483426
+  },
+  {
+    "city": "Nanjing",
+    "lat": 32.05,
+    "lng": 118.7667,
+    "country": "China",
+    "id": 1156644065
+  },
+  {
+    "city": "Ahmedabad",
+    "lat": 23.03,
+    "lng": 72.58,
+    "country": "India",
+    "id": 1356304381
+  },
+  {
+    "city": "Changchun",
+    "lat": 43.9,
+    "lng": 125.2,
+    "country": "China",
+    "id": 1156078103
+  },
+  {
+    "city": "Tangshan",
+    "lat": 39.6292,
+    "lng": 118.1742,
+    "country": "China",
+    "id": 1156904299
+  },
+  {
+    "city": "Cangzhou",
+    "lat": 38.3037,
+    "lng": 116.8452,
+    "country": "China",
+    "id": 1156698069
+  },
+  {
+    "city": "Dar es Salaam",
+    "lat": -6.8,
+    "lng": 39.2833,
+    "country": "Tanzania",
+    "id": 1834843853
+  },
+  {
+    "city": "Hefei",
+    "lat": 31.8639,
+    "lng": 117.2808,
+    "country": "China",
+    "id": 1156332710
+  },
+  {
+    "city": "Hong Kong",
+    "lat": 22.3069,
+    "lng": 114.1831,
+    "country": "Hong Kong",
+    "id": 1344982653
+  },
+  {
+    "city": "Shaoyang",
+    "lat": 27.2418,
+    "lng": 111.4725,
+    "country": "China",
+    "id": 1156310366
+  },
+  {
+    "city": "Zhanjiang",
+    "lat": 21.1967,
+    "lng": 110.4031,
+    "country": "China",
+    "id": 1156502170
+  },
+  {
+    "city": "Shangqiu",
+    "lat": 34.4259,
+    "lng": 115.6467,
+    "country": "China",
+    "id": 1156805441
+  },
+  {
+    "city": "Nantong",
+    "lat": 31.9829,
+    "lng": 120.8873,
+    "country": "China",
+    "id": 1156045365
+  },
+  {
+    "city": "Yancheng",
+    "lat": 33.3936,
+    "lng": 120.1339,
+    "country": "China",
+    "id": 1156995410
+  },
+  {
+    "city": "Nanning",
+    "lat": 22.8192,
+    "lng": 108.315,
+    "country": "China",
+    "id": 1156605439
+  },
+  {
+    "city": "Hengyang",
+    "lat": 26.8968,
+    "lng": 112.5857,
+    "country": "China",
+    "id": 1156696884
+  },
+  {
+    "city": "Zhumadian",
+    "lat": 32.9773,
+    "lng": 114.0253,
+    "country": "China",
+    "id": 1156184822
+  },
+  {
+    "city": "Shenyang",
+    "lat": 41.8039,
+    "lng": 123.4258,
+    "country": "China",
+    "id": 1156309382
+  },
+  {
+    "city": "Xingtai",
+    "lat": 37.0659,
+    "lng": 114.4753,
+    "country": "China",
+    "id": 1156294952
+  },
+  {
+    "city": "Xi�an",
+    "lat": 34.2667,
+    "lng": 108.9,
+    "country": "China",
+    "id": 1156244079
+  },
+  {
+    "city": "Santiago",
+    "lat": -33.45,
+    "lng": -70.6667,
+    "country": "Chile",
+    "id": 1152554349
+  },
+  {
+    "city": "Yantai",
+    "lat": 37.3997,
+    "lng": 121.2664,
+    "country": "China",
+    "id": 1156932948
+  },
+  {
+    "city": "Riyadh",
+    "lat": 24.65,
+    "lng": 46.71,
+    "country": "Saudi Arabia",
+    "id": 1682999334
+  },
+  {
+    "city": "Luoyang",
+    "lat": 34.6587,
+    "lng": 112.4245,
+    "country": "China",
+    "id": 1156069315
+  },
+  {
+    "city": "Kunming",
+    "lat": 25.0433,
+    "lng": 102.7061,
+    "country": "China",
+    "id": 1156477539
+  },
+  {
+    "city": "Shangrao",
+    "lat": 28.4419,
+    "lng": 117.9633,
+    "country": "China",
+    "id": 1156405492
+  },
+  {
+    "city": "Hangzhou",
+    "lat": 30.25,
+    "lng": 120.1675,
+    "country": "China",
+    "id": 1156275243
+  },
+  {
+    "city": "Bijie",
+    "lat": 27.3019,
+    "lng": 105.2863,
+    "country": "China",
+    "id": 1156018927
+  },
+  {
+    "city": "Quanzhou",
+    "lat": 24.9139,
+    "lng": 118.5858,
+    "country": "China",
+    "id": 1156829655
+  },
+  {
+    "city": "Miami",
+    "lat": 25.7839,
+    "lng": -80.2102,
+    "country": "United States",
+    "id": 1840015149
+  },
+  {
+    "city": "Wuxi",
+    "lat": 31.5667,
+    "lng": 120.2833,
+    "country": "China",
+    "id": 1156019650
+  },
+  {
+    "city": "Huanggang",
+    "lat": 30.45,
+    "lng": 114.875,
+    "country": "China",
+    "id": 1156200037
+  },
+  {
+    "city": "Maoming",
+    "lat": 21.6618,
+    "lng": 110.9178,
+    "country": "China",
+    "id": 1156568722
+  },
+  {
+    "city": "Nanchong",
+    "lat": 30.7991,
+    "lng": 106.0784,
+    "country": "China",
+    "id": 1156762337
+  },
+  {
+    "city": "Zunyi",
+    "lat": 27.705,
+    "lng": 106.9336,
+    "country": "China",
+    "id": 1156539782
+  },
+  {
+    "city": "Qujing",
+    "lat": 25.5102,
+    "lng": 103.8029,
+    "country": "China",
+    "id": 1156747998
+  },
+  {
+    "city": "Xinyang",
+    "lat": 32.1264,
+    "lng": 114.0672,
+    "country": "China",
+    "id": 1156273453
+  }
+]
